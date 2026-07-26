@@ -53,111 +53,91 @@ build CMakeFiles/chengkongfangdaqi.dir/Core/Src/main.c.obj: C_COMPILER__chengkon
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\chengkongfangdaqi.dir\Core\Src\main.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\chengkongfangdaqi.dir
   OBJECT_FILE_DIR = CMakeFiles\chengkongfangdaqi.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\chengkongfangdaqi.dir\
-  TARGET_PDB = chengkongfangdaqi.pdb
 
 build CMakeFiles/chengkongfangdaqi.dir/Core/Src/gpio.c.obj: C_COMPILER__chengkongfangdaqi_unscanned_Debug D$:/git/chengkongfangdaqi/Core/Src/gpio.c || cmake_object_order_depends_target_chengkongfangdaqi
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\chengkongfangdaqi.dir\Core\Src\gpio.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\chengkongfangdaqi.dir
   OBJECT_FILE_DIR = CMakeFiles\chengkongfangdaqi.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\chengkongfangdaqi.dir\
-  TARGET_PDB = chengkongfangdaqi.pdb
 
 build CMakeFiles/chengkongfangdaqi.dir/Core/Src/dac.c.obj: C_COMPILER__chengkongfangdaqi_unscanned_Debug D$:/git/chengkongfangdaqi/Core/Src/dac.c || cmake_object_order_depends_target_chengkongfangdaqi
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\chengkongfangdaqi.dir\Core\Src\dac.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\chengkongfangdaqi.dir
   OBJECT_FILE_DIR = CMakeFiles\chengkongfangdaqi.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\chengkongfangdaqi.dir\
-  TARGET_PDB = chengkongfangdaqi.pdb
 
 build CMakeFiles/chengkongfangdaqi.dir/Core/Src/fsmc.c.obj: C_COMPILER__chengkongfangdaqi_unscanned_Debug D$:/git/chengkongfangdaqi/Core/Src/fsmc.c || cmake_object_order_depends_target_chengkongfangdaqi
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\chengkongfangdaqi.dir\Core\Src\fsmc.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\chengkongfangdaqi.dir
   OBJECT_FILE_DIR = CMakeFiles\chengkongfangdaqi.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\chengkongfangdaqi.dir\
-  TARGET_PDB = chengkongfangdaqi.pdb
 
 build CMakeFiles/chengkongfangdaqi.dir/Core/Src/stm32f4xx_it.c.obj: C_COMPILER__chengkongfangdaqi_unscanned_Debug D$:/git/chengkongfangdaqi/Core/Src/stm32f4xx_it.c || cmake_object_order_depends_target_chengkongfangdaqi
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\chengkongfangdaqi.dir\Core\Src\stm32f4xx_it.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\chengkongfangdaqi.dir
   OBJECT_FILE_DIR = CMakeFiles\chengkongfangdaqi.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\chengkongfangdaqi.dir\
-  TARGET_PDB = chengkongfangdaqi.pdb
 
 build CMakeFiles/chengkongfangdaqi.dir/Core/Src/stm32f4xx_hal_msp.c.obj: C_COMPILER__chengkongfangdaqi_unscanned_Debug D$:/git/chengkongfangdaqi/Core/Src/stm32f4xx_hal_msp.c || cmake_object_order_depends_target_chengkongfangdaqi
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\chengkongfangdaqi.dir\Core\Src\stm32f4xx_hal_msp.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\chengkongfangdaqi.dir
   OBJECT_FILE_DIR = CMakeFiles\chengkongfangdaqi.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\chengkongfangdaqi.dir\
-  TARGET_PDB = chengkongfangdaqi.pdb
 
 build CMakeFiles/chengkongfangdaqi.dir/Core/Src/sysmem.c.obj: C_COMPILER__chengkongfangdaqi_unscanned_Debug D$:/git/chengkongfangdaqi/Core/Src/sysmem.c || cmake_object_order_depends_target_chengkongfangdaqi
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\chengkongfangdaqi.dir\Core\Src\sysmem.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\chengkongfangdaqi.dir
   OBJECT_FILE_DIR = CMakeFiles\chengkongfangdaqi.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\chengkongfangdaqi.dir\
-  TARGET_PDB = chengkongfangdaqi.pdb
 
 build CMakeFiles/chengkongfangdaqi.dir/Core/Src/syscalls.c.obj: C_COMPILER__chengkongfangdaqi_unscanned_Debug D$:/git/chengkongfangdaqi/Core/Src/syscalls.c || cmake_object_order_depends_target_chengkongfangdaqi
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\chengkongfangdaqi.dir\Core\Src\syscalls.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\chengkongfangdaqi.dir
   OBJECT_FILE_DIR = CMakeFiles\chengkongfangdaqi.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\chengkongfangdaqi.dir\
-  TARGET_PDB = chengkongfangdaqi.pdb
 
 build CMakeFiles/chengkongfangdaqi.dir/startup_stm32f407xx.s.obj: ASM_COMPILER__chengkongfangdaqi_unscanned_Debug D$:/git/chengkongfangdaqi/startup_stm32f407xx.s || cmake_object_order_depends_target_chengkongfangdaqi
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\chengkongfangdaqi.dir\startup_stm32f407xx.s.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -x assembler-with-cpp -MMD -MP -g
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -x assembler-with-cpp -MMD -MP -g
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\chengkongfangdaqi.dir
   OBJECT_FILE_DIR = CMakeFiles\chengkongfangdaqi.dir
-  TARGET_COMPILE_PDB = CMakeFiles\chengkongfangdaqi.dir\
-  TARGET_PDB = chengkongfangdaqi.pdb
 
 build CMakeFiles/chengkongfangdaqi.dir/Core/Src/lcd.c.obj: C_COMPILER__chengkongfangdaqi_unscanned_Debug D$:/git/chengkongfangdaqi/Core/Src/lcd.c || cmake_object_order_depends_target_chengkongfangdaqi
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = CMakeFiles\chengkongfangdaqi.dir\Core\Src\lcd.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = CMakeFiles\chengkongfangdaqi.dir
   OBJECT_FILE_DIR = CMakeFiles\chengkongfangdaqi.dir\Core\Src
-  TARGET_COMPILE_PDB = CMakeFiles\chengkongfangdaqi.dir\
-  TARGET_PDB = chengkongfangdaqi.pdb
 
 
 # =============================================================================
@@ -169,15 +149,14 @@ build CMakeFiles/chengkongfangdaqi.dir/Core/Src/lcd.c.obj: C_COMPILER__chengkong
 
 build chengkongfangdaqi.elf: C_EXECUTABLE_LINKER__chengkongfangdaqi_Debug cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac_ex.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fsmc.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_nor.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sram.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_nand.c.obj cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pccard.c.obj CMakeFiles/chengkongfangdaqi.dir/Core/Src/main.c.obj CMakeFiles/chengkongfangdaqi.dir/Core/Src/gpio.c.obj CMakeFiles/chengkongfangdaqi.dir/Core/Src/dac.c.obj CMakeFiles/chengkongfangdaqi.dir/Core/Src/fsmc.c.obj CMakeFiles/chengkongfangdaqi.dir/Core/Src/stm32f4xx_it.c.obj CMakeFiles/chengkongfangdaqi.dir/Core/Src/stm32f4xx_hal_msp.c.obj CMakeFiles/chengkongfangdaqi.dir/Core/Src/sysmem.c.obj CMakeFiles/chengkongfangdaqi.dir/Core/Src/syscalls.c.obj CMakeFiles/chengkongfangdaqi.dir/startup_stm32f407xx.s.obj CMakeFiles/chengkongfangdaqi.dir/Core/Src/lcd.c.obj || cmake/stm32cubemx/STM32_Drivers
   CONFIG = Debug
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3
   LINK_FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -T "D:/git/chengkongfangdaqi/STM32F407xx_FLASH.ld" --specs=nano.specs -Wl,-Map=chengkongfangdaqi.map -Wl,--gc-sections -Wl,--print-memory-usage
   LINK_LIBRARIES = -lm
   OBJECT_DIR = CMakeFiles\chengkongfangdaqi.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\chengkongfangdaqi.dir\
   TARGET_FILE = chengkongfangdaqi.elf
-  TARGET_PDB = chengkongfangdaqi.pdb
+  TARGET_PDB = chengkongfangdaqi.elf.dbg
 
 
 #############################################
@@ -221,232 +200,190 @@ build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Core\Src\system_stm32f4xx.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Core\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dac.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac_ex.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac_ex.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dac_ex.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ex.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ramfunc.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_gpio.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma_ex.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cortex.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_exti.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fsmc.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fsmc.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_fsmc.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_nor.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_nor.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_nor.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sram.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sram.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_sram.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_nand.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_nand.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_nand.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 build cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pccard.c.obj: C_COMPILER__STM32_Drivers_unscanned_Debug D$:/git/chengkongfangdaqi/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pccard.c || cmake_object_order_depends_target_STM32_Drivers
   CONFIG = Debug
   DEFINES = -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER
   DEP_FILE = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pccard.c.obj.d
-  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
+  FLAGS = -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11
   INCLUDES = -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Core/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -ID:/git/chengkongfangdaqi/cmake/stm32cubemx/../../Drivers/CMSIS/Include
   OBJECT_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir
   OBJECT_FILE_DIR = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\__\__\Drivers\STM32F4xx_HAL_Driver\Src
-  TARGET_COMPILE_PDB = cmake\stm32cubemx\CMakeFiles\STM32_Drivers.dir\
-  TARGET_PDB = ""
 
 
 
@@ -510,14 +447,14 @@ build cmake/stm32cubemx/all: phony cmake/stm32cubemx/STM32_Drivers
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja D$:/git/chengkongfangdaqi/build/Debug/cmake_install.cmake D$:/git/chengkongfangdaqi/build/Debug/cmake/stm32cubemx/cmake_install.cmake: RERUN_CMAKE | C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeASMCompiler.cmake.in C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeASMInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCCompiler.cmake.in C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCCompilerABI.c C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCXXCompiler.cmake.in C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCXXCompilerABI.cpp C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCXXInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCompilerIdDetection.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineASMCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineCCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineCompilerSupport.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineSystem.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeFindBinUtils.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeGenericSystem.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeNinjaFindMake.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeSystem.cmake.in C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeTestASMCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeTestCompilerCommon.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-ASM.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-C.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-CXX-CXXImportStd.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-CXX.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeASMLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeInspectASMLinker.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeInspectCLinker.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeInspectCXXLinker.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/FeatureTesting.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Platform/Generic.cmake CMakeCache.txt CMakeFiles/4.0.1/CMakeASMCompiler.cmake CMakeFiles/4.0.1/CMakeCCompiler.cmake CMakeFiles/4.0.1/CMakeCXXCompiler.cmake CMakeFiles/4.0.1/CMakeSystem.cmake D$:/git/chengkongfangdaqi/CMakeLists.txt D$:/git/chengkongfangdaqi/cmake/gcc-arm-none-eabi.cmake D$:/git/chengkongfangdaqi/cmake/stm32cubemx/CMakeLists.txt
+build build.ninja D$:/git/chengkongfangdaqi/build/Debug/cmake_install.cmake D$:/git/chengkongfangdaqi/build/Debug/cmake/stm32cubemx/cmake_install.cmake: RERUN_CMAKE | C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeASMInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCXXInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeGenericSystem.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-ASM.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-C.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-CXX.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeASMLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Platform/Generic.cmake CMakeCache.txt CMakeFiles/4.0.1/CMakeASMCompiler.cmake CMakeFiles/4.0.1/CMakeCCompiler.cmake CMakeFiles/4.0.1/CMakeCXXCompiler.cmake CMakeFiles/4.0.1/CMakeSystem.cmake D$:/git/chengkongfangdaqi/CMakeLists.txt D$:/git/chengkongfangdaqi/cmake/gcc-arm-none-eabi.cmake D$:/git/chengkongfangdaqi/cmake/stm32cubemx/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeASMCompiler.cmake.in C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeASMInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCCompiler.cmake.in C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCCompilerABI.c C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCXXCompiler.cmake.in C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCXXCompilerABI.cpp C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCXXInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCompilerIdDetection.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineASMCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineCCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineCompilerSupport.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeDetermineSystem.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeFindBinUtils.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeGenericSystem.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeNinjaFindMake.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeSystem.cmake.in C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeTestASMCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeTestCompilerCommon.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-ASM.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-C.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-CXX-CXXImportStd.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-CXX.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeASMLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeInspectASMLinker.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeInspectCLinker.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeInspectCXXLinker.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/FeatureTesting.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Platform/Generic.cmake CMakeCache.txt CMakeFiles/4.0.1/CMakeASMCompiler.cmake CMakeFiles/4.0.1/CMakeCCompiler.cmake CMakeFiles/4.0.1/CMakeCXXCompiler.cmake CMakeFiles/4.0.1/CMakeSystem.cmake D$:/git/chengkongfangdaqi/CMakeLists.txt D$:/git/chengkongfangdaqi/cmake/gcc-arm-none-eabi.cmake D$:/git/chengkongfangdaqi/cmake/stm32cubemx/CMakeLists.txt: phony
+build C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeASMInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCXXInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeGenericSystem.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-ASM.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-C.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-CXX.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeASMLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Users/pc/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Platform/Generic.cmake CMakeCache.txt CMakeFiles/4.0.1/CMakeASMCompiler.cmake CMakeFiles/4.0.1/CMakeCCompiler.cmake CMakeFiles/4.0.1/CMakeCXXCompiler.cmake CMakeFiles/4.0.1/CMakeSystem.cmake D$:/git/chengkongfangdaqi/CMakeLists.txt D$:/git/chengkongfangdaqi/cmake/gcc-arm-none-eabi.cmake D$:/git/chengkongfangdaqi/cmake/stm32cubemx/CMakeLists.txt: phony
 
 
 #############################################
