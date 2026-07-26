@@ -46,6 +46,8 @@ target_link_directories(${CMAKE_PROJECT_NAME} PRIVATE
 target_sources(${CMAKE_PROJECT_NAME} PRIVATE
     # Add user sources here
     Core/Src/lcd.c
+    Core/Src/ad9954.c
+    Core/Src/touch.c
 )
 
 # Add include paths
