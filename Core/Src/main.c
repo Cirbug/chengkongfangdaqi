@@ -46,10 +46,10 @@ typedef enum
 #define DAC_VREF_MV             3300U
 #define DAC_MAX_CODE            4095U
 
-#define CONTROL_VOLTAGE_MIN_MV  1800U
+#define CONTROL_VOLTAGE_MIN_MV     0U
 #define CONTROL_VOLTAGE_MAX_MV  3200U
 #define CONTROL_VOLTAGE_STEP_MV   10U
-#define CONTROL_VOLTAGE_INIT_MV  2500U
+#define CONTROL_VOLTAGE_INIT_MV  1000U
 
 #define BUTTON_DEBOUNCE_MS       30U
 
@@ -60,6 +60,7 @@ typedef enum
 #define DDS_AMPLITUDE_INIT_MVPP    100U
 
 #define TOUCH_SCAN_PERIOD_MS       10U
+#define TOUCH_RELEASE_DEBOUNCE_MS  40U
 #define EDIT_BUFFER_CAPACITY       10U
 
 #define KEYPAD_LEFT                8U
@@ -96,8 +97,9 @@ static uint8_t dds_enabled = 1U;
 static uint8_t dds_apply_ok = 0U;
 
 static TouchState touch_state = {0U, 0U, 0U, 0U, 0U};
-static uint8_t touch_was_pressed = 0U;
+static uint8_t touch_press_latched = 0U;
 static uint32_t touch_last_scan_tick = 0U;
+static uint32_t touch_release_start_tick = 0U;
 
 static EditField edit_field = EDIT_NONE;
 static char edit_buffer[EDIT_BUFFER_CAPACITY] = {0};
@@ -585,12 +587,41 @@ static void Touch_Process(void)
   }
   touch_last_scan_tick = now;
 
-  (void)Touch_Scan(&touch_state);
-  if ((touch_state.pressed != 0U) && (touch_was_pressed == 0U))
+  if (Touch_IsPressed() == 0U)
   {
+    touch_state.pressed = 0U;
+
+    if (touch_press_latched != 0U)
+    {
+      if (touch_release_start_tick == 0U)
+      {
+        touch_release_start_tick = now;
+      }
+      else if ((now - touch_release_start_tick) >= TOUCH_RELEASE_DEBOUNCE_MS)
+      {
+        touch_press_latched = 0U;
+        touch_release_start_tick = 0U;
+      }
+    }
+    else
+    {
+      touch_release_start_tick = 0U;
+    }
+    return;
+  }
+
+  touch_release_start_tick = 0U;
+  if (touch_press_latched != 0U)
+  {
+    return;
+  }
+
+  if ((Touch_Scan(&touch_state) != 0U) &&
+      (touch_state.pressed != 0U))
+  {
+    touch_press_latched = 1U;
     Ui_HandleTouch(touch_state.x, touch_state.y);
   }
-  touch_was_pressed = touch_state.pressed;
 }
 
 /* USER CODE END 0 */

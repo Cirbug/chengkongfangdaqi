@@ -14,5 +14,6 @@ typedef struct
 
 void Touch_Init(void);
 uint8_t Touch_Scan(TouchState *state);
+uint8_t Touch_IsPressed(void);
 
 #endif /* TOUCH_H */

@@ -36,6 +36,7 @@ static const uint32_t ad9954_system_clock_hz =
 static void Ad9954_InitGpio(void);
 static void Ad9954_Reset(void);
 static void Ad9954_Update(void);
+static void Ad9954_SerialDelay(void);
 static void Ad9954_WriteByte(uint8_t data);
 static void Ad9954_WriteRegister(uint8_t address,
                                  const uint8_t *data,
@@ -65,6 +66,8 @@ uint8_t Ad9954_Init(void)
   Ad9954_WriteRegister(AD9954_REG_CFR1, cfr1, (uint8_t)sizeof(cfr1));
   Ad9954_WriteRegister(AD9954_REG_CFR2, cfr2, (uint8_t)sizeof(cfr2));
   Ad9954_Update();
+  /* Allow the internal PLL to lock before writing FTW/ASF registers. */
+  HAL_Delay(10U);
   HAL_GPIO_WritePin(AD9954_OSK_PORT, AD9954_OSK_PIN, GPIO_PIN_SET);
   return 1U;
 }
@@ -208,11 +211,20 @@ static void Ad9954_Reset(void)
 static void Ad9954_Update(void)
 {
   HAL_GPIO_WritePin(AD9954_UPD_PORT, AD9954_UPD_PIN, GPIO_PIN_SET);
-  __NOP();
-  __NOP();
-  __NOP();
-  __NOP();
+  for (volatile uint32_t delay = 0U; delay < 32U; ++delay)
+  {
+    __NOP();
+  }
   HAL_GPIO_WritePin(AD9954_UPD_PORT, AD9954_UPD_PIN, GPIO_PIN_RESET);
+  Ad9954_SerialDelay();
+}
+
+static void Ad9954_SerialDelay(void)
+{
+  for (volatile uint32_t delay = 0U; delay < 8U; ++delay)
+  {
+    __NOP();
+  }
 }
 
 static void Ad9954_WriteByte(uint8_t data)
@@ -223,7 +235,9 @@ static void Ad9954_WriteByte(uint8_t data)
     HAL_GPIO_WritePin(AD9954_SDIO_PORT, AD9954_SDIO_PIN,
                       ((data & 0x80U) != 0U) ?
                       GPIO_PIN_SET : GPIO_PIN_RESET);
+    Ad9954_SerialDelay();
     HAL_GPIO_WritePin(AD9954_SCLK_PORT, AD9954_SCLK_PIN, GPIO_PIN_SET);
+    Ad9954_SerialDelay();
     data <<= 1U;
   }
 

@@ -114,6 +114,11 @@ uint8_t Touch_Scan(TouchState *state)
   return 1U;
 }
 
+uint8_t Touch_IsPressed(void)
+{
+  return TOUCH_PEN_READ() ? 1U : 0U;
+}
+
 static void Touch_DelayUs(uint32_t us)
 {
   uint32_t cycles_per_us = SystemCoreClock / 1000000U;
